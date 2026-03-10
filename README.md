@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Abhay Kumar Rajpoot</h1>
 <h3 align="center">A passionate Leaning Web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhaykumar30](https://github.com/abhaykumar30)
 
